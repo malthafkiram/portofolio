@@ -20,7 +20,7 @@ export const translations = {
       ctaSecondary: "Download CV",
       ctaContact: "Contact",
       quickTags: ["LangChain + RAG", "Next.js", "Node.js", "React Native"],
-      portraitRole: "Fullstack JavaScript and AI systems",
+      portraitRole: "Fullstack Software Engineer",
     },
     filters: {
       all: "All",
@@ -112,19 +112,23 @@ export const translations = {
     },
     about: {
       heading: "About",
-      badge: "S.Kom, GPA 3.66 · Hacktiv8 Fullstack JavaScript",
+      badge:
+        "Informatics Engineering, GPA 3.66 · AI-Enhanced Full Stack Developer Bootcamp",
       pillarsTitle: "Focus",
       educationLabel: "Universitas Malikussaleh (S.Kom)",
-      bootcampLabel: "Hacktiv8 Fullstack JavaScript",
+      bootcampLabel: "Hacktiv8 AI-Enhanced Full Stack Developer",
       bootcampValue: "Graduate",
-      p1: "I am a Computer Science graduate from Universitas Malikussaleh (GPA 3.66/4.00) and a Hacktiv8 Fullstack JavaScript graduate. I build web and mobile products that are already live, including RAC, a LangChain RAG car advisor at rac.kabanroom.web.id.",
-      p2: "Before software engineering, I ran branch operations and coordinated election logistics for 100+ field officers. That work trained ownership, calm execution under pressure, and delivery on hard deadlines.",
-      p3: "I work daily on Ubuntu Linux. Backends go to AWS EC2, frontends to Vercel. I use AI tooling to move faster without lowering code quality.",
+      p1: "I am an Informatics Engineering graduate from Universitas Malikussaleh (GPA 3.66/4.00) and an alumnus of the Hacktiv8 AI-Enhanced Full Stack Developer Bootcamp. I build production-ready web and mobile products, including RAC, a LangChain RAG car advisor.",
+      p2: "Before transitioning to software engineering, I managed branch operations and coordinated election logistics for over 100 field officers. This background instilled deep ownership, calm execution under pressure, and a track record of delivering under strict deadlines",
+      p3: "I deploy scalable solutions using modern stacks (AWS EC2, Vercel) and leverage AI tooling to accelerate development without compromising code quality.",
       highlights: [
         { label: "Environment", val: "Ubuntu Linux" },
         { label: "Practice", val: "Clear code, tested deploys" },
         { label: "Collaboration", val: "Git, Agile, short iterations" },
-        { label: "Roles", val: "Fullstack, Backend, AI Engineer" },
+        {
+          label: "Roles",
+          val: "Fullstack Developer, Backend Developer, Frontend Developer AI Engineer",
+        },
       ],
     },
     recruiterBar: {
@@ -259,19 +263,22 @@ export const translations = {
     },
     about: {
       heading: "Tentang saya",
-      badge: "S.Kom, IPK 3.66 · Hacktiv8 Fullstack JavaScript",
+      badge: "Teknik Informatika, IPK 3.66 · AI-Enhanced Full Stack Developer",
       pillarsTitle: "Fokus",
       educationLabel: "Universitas Malikussaleh (S.Kom)",
-      bootcampLabel: "Hacktiv8 Fullstack JavaScript",
+      bootcampLabel: "Hacktiv8 AI-Enhanced Full Stack Developer",
       bootcampValue: "Lulusan",
-      p1: "Saya lulusan Informatika Universitas Malikussaleh (IPK 3.66/4.00) dan lulusan Hacktiv8 Fullstack JavaScript. Saya membangun produk web dan mobile yang sudah live, termasuk RAC, advisor mobil LangChain RAG di rac.kabanroom.web.id.",
-      p2: "Sebelum menjadi software engineer, saya memimpin operasional cabang dan mengoordinasikan logistik pemilu untuk 100+ petugas lapangan. Pengalaman itu membentuk rasa tanggung jawab, kerja tenang di bawah tekanan, dan ketepatan tenggat.",
-      p3: "Saya bekerja harian di Ubuntu Linux. Backend saya pasang di AWS EC2, frontend di Vercel. Saya memakai perangkat AI untuk bekerja lebih cepat tanpa menurunkan kualitas kode.",
+      p1: "Saya lulusan Informatika Universitas Malikussaleh (IPK 3.66/4.00) dan alumnus Hacktiv8 AI-Enhanced Full Stack Developer. Saya terbiasa membangun produk web dan mobile yang siap pakai dan live, termasuk RAC, car advisor berbasis LangChain RAG.",
+      p2: "Sebelum bergeser ke software engineering, saya memimpin operasional cabang dan mengoordinasikan logistik pemilu untuk 100+ petugas lapangan. Pengalaman itu membentuk rasa tanggung jawab yang tinggi, kemampuan bekerja dengan tenang di bawah tekanan, serta kedisiplinan terhadap tenggat waktu.",
+      p3: "Saya aktif menggunakan Ubuntu Linux untuk pengembangan sehari-hari. Backend didevoke ke AWS EC2 dan frontend ke Vercel. Saya juga mengintegrasikan perangkat AI ke dalam alur kerja untuk mempercepat proses development tanpa berkompromi pada kualitas kode.",
       highlights: [
         { label: "Lingkungan", val: "Ubuntu Linux" },
         { label: "Praktik", val: "Kode rapi, rilis teruji" },
         { label: "Kolaborasi", val: "Git, Agile, iterasi pendek" },
-        { label: "Posisi", val: "Fullstack, Backend, AI Engineer" },
+        {
+          label: "Posisi",
+          val: "Fullstack Developer, Backend Developer, Frontend Developer AI Engineer",
+        },
       ],
     },
     recruiterBar: {

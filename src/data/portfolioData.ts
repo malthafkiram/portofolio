@@ -79,6 +79,7 @@ export const siteConfig = {
     "https://wa.me/6285157715522?text=Halo%20Althaf,%20saya%20tertarik%20dengan%20profil%20dan%20portofolio%20Anda.",
   github: "https://github.com/malthafkiram",
   linkedin: "https://www.linkedin.com/in/malthafkiram",
+  siteUrl: "https://m-althaf-kiram-portfolio.vercel.app",
   cvPdf: "/cv/CV_M_Althaf_Kiram_Fullstack.pdf",
   stats: [
     { label: { en: "Live products", id: "Produk live" }, value: "6+" },

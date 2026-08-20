@@ -4617,11 +4617,11 @@ var _s = __turbopack_context__.k.signature();
 const RecruiterBar = (t0)=>{
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(25);
-    if ($[0] !== "6ae7f9c87e2fd9a07002436a6574c42e23565346798fd4372e8057a925ae7bc9") {
+    if ($[0] !== "bc546864b2b7a48604c0245c47737f8d7841d2cad2255a36df7a93dbeb9b42cb") {
         for(let $i = 0; $i < 25; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "6ae7f9c87e2fd9a07002436a6574c42e23565346798fd4372e8057a925ae7bc9";
+        $[0] = "bc546864b2b7a48604c0245c47737f8d7841d2cad2255a36df7a93dbeb9b42cb";
     }
     const { lang } = t0;
     const [copied, setCopied] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
@@ -4865,24 +4865,35 @@ const RecruiterBar = (t0)=>{
             href: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$data$2f$portfolioData$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["siteConfig"].linkedin,
             target: "_blank",
             rel: "noopener noreferrer",
-            className: "p-2 text-sky-400 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-all",
+            className: "inline-flex items-center gap-1.5 px-3 py-2 text-xs font-medium text-sky-300 bg-sky-950/40 hover:bg-sky-900/50 border border-sky-500/30 rounded-xl transition-all",
             title: "Visit LinkedIn Profile",
-            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                className: "w-3.5 h-3.5 fill-current",
-                viewBox: "0 0 24 24",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                    d: "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                    className: "w-3.5 h-3.5 fill-current",
+                    viewBox: "0 0 24 24",
+                    "aria-hidden": "true",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                        d: "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/RecruiterBar.tsx",
+                        lineNumber: 108,
+                        columnNumber: 368
+                    }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/src/components/RecruiterBar.tsx",
                     lineNumber: 108,
-                    columnNumber: 283
+                    columnNumber: 287
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                    className: "hidden sm:inline",
+                    children: "LinkedIn"
+                }, void 0, false, {
+                    fileName: "[project]/src/components/RecruiterBar.tsx",
+                    lineNumber: 108,
+                    columnNumber: 710
                 }, ("TURBOPACK compile-time value", void 0))
-            }, void 0, false, {
-                fileName: "[project]/src/components/RecruiterBar.tsx",
-                lineNumber: 108,
-                columnNumber: 221
-            }, ("TURBOPACK compile-time value", void 0))
-        }, void 0, false, {
+            ]
+        }, void 0, true, {
             fileName: "[project]/src/components/RecruiterBar.tsx",
             lineNumber: 108,
             columnNumber: 11
@@ -5848,6 +5859,7 @@ const siteConfig = {
     whatsappHref: "https://wa.me/6285157715522?text=Halo%20Althaf,%20saya%20tertarik%20dengan%20profil%20dan%20portofolio%20Anda.",
     github: "https://github.com/malthafkiram",
     linkedin: "https://www.linkedin.com/in/malthafkiram",
+    siteUrl: "https://m-althaf-kiram-portfolio.vercel.app",
     cvPdf: "/cv/CV_M_Althaf_Kiram_Fullstack.pdf",
     stats: [
         {
@@ -7111,7 +7123,7 @@ const translations = {
                 "Node.js",
                 "React Native"
             ],
-            portraitRole: "Fullstack JavaScript and AI systems"
+            portraitRole: "Fullstack Software Engineer"
         },
         filters: {
             all: "All",
@@ -7200,14 +7212,14 @@ const translations = {
         },
         about: {
             heading: "About",
-            badge: "S.Kom, GPA 3.66 · Hacktiv8 Fullstack JavaScript",
+            badge: "Informatics Engineering, GPA 3.66 · AI-Enhanced Full Stack Developer Bootcamp",
             pillarsTitle: "Focus",
             educationLabel: "Universitas Malikussaleh (S.Kom)",
-            bootcampLabel: "Hacktiv8 Fullstack JavaScript",
+            bootcampLabel: "Hacktiv8 AI-Enhanced Full Stack Developer",
             bootcampValue: "Graduate",
-            p1: "I am a Computer Science graduate from Universitas Malikussaleh (GPA 3.66/4.00) and a Hacktiv8 Fullstack JavaScript graduate. I build web and mobile products that are already live, including RAC, a LangChain RAG car advisor at rac.kabanroom.web.id.",
-            p2: "Before software engineering, I ran branch operations and coordinated election logistics for 100+ field officers. That work trained ownership, calm execution under pressure, and delivery on hard deadlines.",
-            p3: "I work daily on Ubuntu Linux. Backends go to AWS EC2, frontends to Vercel. I use AI tooling to move faster without lowering code quality.",
+            p1: "I am an Informatics Engineering graduate from Universitas Malikussaleh (GPA 3.66/4.00) and an alumnus of the Hacktiv8 AI-Enhanced Full Stack Developer Bootcamp. I build production-ready web and mobile products, including RAC, a LangChain RAG car advisor.",
+            p2: "Before transitioning to software engineering, I managed branch operations and coordinated election logistics for over 100 field officers. This background instilled deep ownership, calm execution under pressure, and a track record of delivering under strict deadlines",
+            p3: "I deploy scalable solutions using modern stacks (AWS EC2, Vercel) and leverage AI tooling to accelerate development without compromising code quality.",
             highlights: [
                 {
                     label: "Environment",
@@ -7223,7 +7235,7 @@ const translations = {
                 },
                 {
                     label: "Roles",
-                    val: "Fullstack, Backend, AI Engineer"
+                    val: "Fullstack Developer, Backend Developer, Frontend Developer AI Engineer"
                 }
             ]
         },
@@ -7358,14 +7370,14 @@ const translations = {
         },
         about: {
             heading: "Tentang saya",
-            badge: "S.Kom, IPK 3.66 · Hacktiv8 Fullstack JavaScript",
+            badge: "Teknik Informatika, IPK 3.66 · AI-Enhanced Full Stack Developer",
             pillarsTitle: "Fokus",
             educationLabel: "Universitas Malikussaleh (S.Kom)",
-            bootcampLabel: "Hacktiv8 Fullstack JavaScript",
+            bootcampLabel: "Hacktiv8 AI-Enhanced Full Stack Developer",
             bootcampValue: "Lulusan",
-            p1: "Saya lulusan Informatika Universitas Malikussaleh (IPK 3.66/4.00) dan lulusan Hacktiv8 Fullstack JavaScript. Saya membangun produk web dan mobile yang sudah live, termasuk RAC, advisor mobil LangChain RAG di rac.kabanroom.web.id.",
-            p2: "Sebelum menjadi software engineer, saya memimpin operasional cabang dan mengoordinasikan logistik pemilu untuk 100+ petugas lapangan. Pengalaman itu membentuk rasa tanggung jawab, kerja tenang di bawah tekanan, dan ketepatan tenggat.",
-            p3: "Saya bekerja harian di Ubuntu Linux. Backend saya pasang di AWS EC2, frontend di Vercel. Saya memakai perangkat AI untuk bekerja lebih cepat tanpa menurunkan kualitas kode.",
+            p1: "Saya lulusan Informatika Universitas Malikussaleh (IPK 3.66/4.00) dan alumnus Hacktiv8 AI-Enhanced Full Stack Developer. Saya terbiasa membangun produk web dan mobile yang siap pakai dan live, termasuk RAC, car advisor berbasis LangChain RAG.",
+            p2: "Sebelum bergeser ke software engineering, saya memimpin operasional cabang dan mengoordinasikan logistik pemilu untuk 100+ petugas lapangan. Pengalaman itu membentuk rasa tanggung jawab yang tinggi, kemampuan bekerja dengan tenang di bawah tekanan, serta kedisiplinan terhadap tenggat waktu.",
+            p3: "Saya aktif menggunakan Ubuntu Linux untuk pengembangan sehari-hari. Backend didevoke ke AWS EC2 dan frontend ke Vercel. Saya juga mengintegrasikan perangkat AI ke dalam alur kerja untuk mempercepat proses development tanpa berkompromi pada kualitas kode.",
             highlights: [
                 {
                     label: "Lingkungan",
@@ -7381,7 +7393,7 @@ const translations = {
                 },
                 {
                     label: "Posisi",
-                    val: "Fullstack, Backend, AI Engineer"
+                    val: "Fullstack Developer, Backend Developer, Frontend Developer AI Engineer"
                 }
             ]
         },

@@ -21,3 +21,37 @@
 {"timestamp":"00:10:04.895","source":"Server","level":"LOG","message":"✓ Compiled in 21ms"}
 {"timestamp":"00:10:35.069","source":"Server","level":"LOG","message":"✓ Compiled in 32ms"}
 {"timestamp":"00:10:40.047","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:17:30.523","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:18:08.995","source":"Browser","level":"WARN","message":"Image with src \"/projects/rakanchat/01.jpg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"00:18:09.016","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/projects/rakanchat/01.jpg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
+{"timestamp":"00:18:09.016","source":"Browser","level":"WARN","message":"Image with src \"/projects/rakanchat/02.jpg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"00:18:09.017","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/projects/rakanchat/02.jpg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
+{"timestamp":"00:18:09.190","source":"Browser","level":"WARN","message":"Image with src \"/projects/rakanchat/03.jpg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"00:18:09.190","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/projects/rakanchat/03.jpg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
+{"timestamp":"00:18:09.223","source":"Browser","level":"WARN","message":"Image with src \"/projects/rakanchat/04.jpg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"00:18:09.223","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/projects/rakanchat/04.jpg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\""}
+{"timestamp":"00:18:12.663","source":"Server","level":"LOG","message":"✓ Compiled in 0ms"}
+{"timestamp":"00:26:14.235","source":"Server","level":"LOG","message":"✓ Compiled in 91ms"}
+{"timestamp":"00:28:06.520","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:29:40.738","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:33:02.340","source":"Server","level":"LOG","message":"✓ Compiled in 81ms"}
+{"timestamp":"00:33:05.711","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:35:12.493","source":"Server","level":"LOG","message":"✓ Compiled in 144ms"}
+{"timestamp":"00:39:55.325","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"00:40:27.256","source":"Server","level":"LOG","message":"✓ Compiled in 18ms"}
+{"timestamp":"00:43:19.078","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
+{"timestamp":"00:43:49.609","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
+{"timestamp":"00:44:06.672","source":"Server","level":"LOG","message":"✓ Compiled in 22ms"}
+{"timestamp":"00:44:23.978","source":"Server","level":"LOG","message":"✓ Compiled in 21ms"}
+{"timestamp":"00:44:40.792","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
+{"timestamp":"00:44:46.521","source":"Server","level":"LOG","message":"✓ Compiled in 18ms"}
+{"timestamp":"00:45:13.847","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}
+{"timestamp":"00:45:18.956","source":"Server","level":"LOG","message":"✓ Compiled in 18ms"}
+{"timestamp":"00:45:40.198","source":"Server","level":"LOG","message":"✓ Compiled in 21ms"}
+{"timestamp":"00:45:49.104","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"00:45:58.908","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"00:46:09.953","source":"Server","level":"LOG","message":"✓ Compiled in 19ms"}
+{"timestamp":"00:47:07.747","source":"Server","level":"LOG","message":"✓ Compiled in 20ms"}
+{"timestamp":"00:47:24.278","source":"Server","level":"LOG","message":"✓ Compiled in 19ms"}
+{"timestamp":"00:48:54.430","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"00:49:00.339","source":"Server","level":"LOG","message":"✓ Compiled in 23ms"}

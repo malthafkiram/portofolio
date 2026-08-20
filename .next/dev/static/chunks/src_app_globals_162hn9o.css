@@ -93,6 +93,7 @@
     --color-sky-400: #00bcfe;
     --color-sky-500: #00a5ef;
     --color-sky-600: #0084cc;
+    --color-sky-900: #024a70;
     --color-sky-950: #052f4a;
     --color-blue-500: #3080ff;
     --color-blue-600: #155dfc;
@@ -179,6 +180,7 @@
       --color-sky-400: lab(70.687% -23.6078 -45.9483);
       --color-sky-500: lab(63.3038% -18.433 -51.0407);
       --color-sky-600: lab(51.7754% -11.4712 -49.8349);
+      --color-sky-900: lab(29.1959% -8.34689 -28.2453);
       --color-sky-950: lab(17.8299% -5.31271 -21.1584);
       --color-blue-500: lab(54.1736% 13.3369 -74.6839);
       --color-blue-600: lab(44.0605% 29.0279 -86.0352);
@@ -1488,6 +1490,16 @@
     background-color: var(--color-sky-600);
   }
 
+  .bg-sky-950\/40 {
+    background-color: #052f4a66;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-sky-950\/40 {
+      background-color: color-mix(in oklab, var(--color-sky-950) 40%, transparent);
+    }
+  }
+
   .bg-sky-950\/50 {
     background-color: #052f4a80;
   }
@@ -2463,6 +2475,16 @@
 
     .hover\:bg-sky-500:hover {
       background-color: var(--color-sky-500);
+    }
+
+    .hover\:bg-sky-900\/50:hover {
+      background-color: #024a7080;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      .hover\:bg-sky-900\/50:hover {
+        background-color: color-mix(in oklab, var(--color-sky-900) 50%, transparent);
+      }
     }
 
     .hover\:bg-white\/5:hover {

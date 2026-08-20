@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
 import { cookies } from "next/headers";
 import { Providers } from "@/components/Providers";
-import { Language } from "@/data/portfolioData";
+import { Language, siteConfig } from "@/data/portfolioData";
 import "./globals.css";
 
+const siteUrl = siteConfig.siteUrl;
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: "M. Althaf Kiram | Fullstack Software Engineer & AI Systems Builder",
   description:
     "Portfolio of M. Althaf Kiram. Fullstack Software Engineer shipping Next.js, React Native, Node.js, Socket.IO realtime systems, and AI products including RAC (LangChain RAG) and LamarKerja AI. Available immediately for relocate or remote roles.",
@@ -30,27 +33,53 @@ export const metadata: Metadata = {
     "Hacktiv8",
     "Indonesia",
   ],
-  authors: [{ name: "M. Althaf Kiram", url: "https://github.com/malthafkiram" }],
+  authors: [{ name: "M. Althaf Kiram", url: siteConfig.github }],
   creator: "M. Althaf Kiram",
+  alternates: {
+    canonical: "/",
+  },
+  icons: {
+    icon: "/favicon.ico",
+  },
   openGraph: {
     title: "M. Althaf Kiram | Fullstack Software Engineer & AI Systems Builder",
     description:
       "Fullstack engineer shipping production AI systems, live commerce, realtime multiplayer games, and mobile products with Next.js, Express, PostgreSQL, and Linux/Vercel deploys.",
-    url: "https://m-althaf-kiram-portfolio.vercel.app",
+    url: siteUrl,
     siteName: "M. Althaf Kiram Portfolio",
     locale: "en_US",
     type: "website",
+    images: [
+      {
+        url: "/og.png",
+        width: 1200,
+        height: 630,
+        alt: "M. Althaf Kiram - Fullstack Software Engineer",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "M. Althaf Kiram | Fullstack Software Engineer",
     description:
       "Fullstack engineer shipping production AI systems, live commerce, realtime WebSockets, and mobile apps with Next.js, Express, PostgreSQL, and Linux deploys.",
+    images: ["/og.png"],
   },
   robots: {
     index: true,
     follow: true,
   },
+};
+
+const personJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: siteConfig.name,
+  url: siteUrl,
+  jobTitle: "Fullstack Software Engineer",
+  email: `mailto:${siteConfig.email}`,
+  image: `${siteUrl}/Althaf.jpg`,
+  sameAs: [siteConfig.github, siteConfig.linkedin],
 };
 
 export default async function RootLayout({
@@ -65,7 +94,10 @@ export default async function RootLayout({
   return (
     <html lang={initialLang} className="dark" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(){try{var l=localStorage.getItem("portfolio-lang");if(l==="id"||l==="en"){document.documentElement.lang=l;document.cookie="portfolio-lang="+l+";path=/;max-age=31536000;SameSite=Lax"}}catch(e){}})();`,

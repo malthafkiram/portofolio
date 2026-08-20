@@ -2844,20 +2844,20 @@ const RecruiterBar = ({ lang })=>{
                                         className: "animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 28,
+                                        lineNumber: 31,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "relative inline-flex rounded-full h-3 w-3 bg-emerald-500"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 29,
+                                        lineNumber: 32,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                                lineNumber: 27,
+                                lineNumber: 30,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2865,13 +2865,13 @@ const RecruiterBar = ({ lang })=>{
                                 children: t.recruiterBar.available
                             }, void 0, false, {
                                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                                lineNumber: 31,
+                                lineNumber: 34,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                        lineNumber: 26,
+                        lineNumber: 29,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2895,25 +2895,25 @@ const RecruiterBar = ({ lang })=>{
                                             d: "M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/RecruiterBar.tsx",
-                                            lineNumber: 51,
+                                            lineNumber: 54,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 45,
+                                        lineNumber: 48,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: t.recruiterBar.downloadCv
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 58,
+                                        lineNumber: 61,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                                lineNumber: 39,
+                                lineNumber: 42,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2934,25 +2934,25 @@ const RecruiterBar = ({ lang })=>{
                                             d: "M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/RecruiterBar.tsx",
-                                            lineNumber: 78,
+                                            lineNumber: 81,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 72,
+                                        lineNumber: 75,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: copied ? t.recruiterBar.copied : t.recruiterBar.copyEmail
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 85,
+                                        lineNumber: 88,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                                lineNumber: 62,
+                                lineNumber: 65,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -2969,12 +2969,12 @@ const RecruiterBar = ({ lang })=>{
                                             d: "M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/RecruiterBar.tsx",
-                                            lineNumber: 96,
+                                            lineNumber: 105,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 95,
+                                        lineNumber: 100,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2982,56 +2982,67 @@ const RecruiterBar = ({ lang })=>{
                                         children: t.recruiterBar.whatsapp
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 98,
+                                        lineNumber: 107,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                                lineNumber: 89,
+                                lineNumber: 94,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                 href: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$data$2f$portfolioData$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteConfig"].linkedin,
                                 target: "_blank",
                                 rel: "noopener noreferrer",
-                                className: "p-2 text-sky-400 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-all",
+                                className: "inline-flex items-center gap-1.5 px-3 py-2 text-xs font-medium text-sky-300 bg-sky-950/40 hover:bg-sky-900/50 border border-sky-500/30 rounded-xl transition-all",
                                 title: "Visit LinkedIn Profile",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                    className: "w-3.5 h-3.5 fill-current",
-                                    viewBox: "0 0 24 24",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                        d: "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                        className: "w-3.5 h-3.5 fill-current",
+                                        viewBox: "0 0 24 24",
+                                        "aria-hidden": "true",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                            d: "M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/RecruiterBar.tsx",
+                                            lineNumber: 125,
+                                            columnNumber: 17
+                                        }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                                        lineNumber: 110,
-                                        columnNumber: 17
+                                        lineNumber: 120,
+                                        columnNumber: 15
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "hidden sm:inline",
+                                        children: "LinkedIn"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/RecruiterBar.tsx",
+                                        lineNumber: 127,
+                                        columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
-                                }, void 0, false, {
-                                    fileName: "[project]/src/components/RecruiterBar.tsx",
-                                    lineNumber: 109,
-                                    columnNumber: 15
-                                }, ("TURBOPACK compile-time value", void 0))
-                            }, void 0, false, {
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                                lineNumber: 102,
+                                lineNumber: 113,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/RecruiterBar.tsx",
-                        lineNumber: 37,
+                        lineNumber: 40,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/RecruiterBar.tsx",
-                lineNumber: 24,
+                lineNumber: 27,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/src/components/RecruiterBar.tsx",
-            lineNumber: 23,
+            lineNumber: 26,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
@@ -3581,6 +3592,7 @@ const siteConfig = {
     whatsappHref: "https://wa.me/6285157715522?text=Halo%20Althaf,%20saya%20tertarik%20dengan%20profil%20dan%20portofolio%20Anda.",
     github: "https://github.com/malthafkiram",
     linkedin: "https://www.linkedin.com/in/malthafkiram",
+    siteUrl: "https://m-althaf-kiram-portfolio.vercel.app",
     cvPdf: "/cv/CV_M_Althaf_Kiram_Fullstack.pdf",
     stats: [
         {
@@ -4841,7 +4853,7 @@ const translations = {
                 "Node.js",
                 "React Native"
             ],
-            portraitRole: "Fullstack JavaScript and AI systems"
+            portraitRole: "Fullstack Software Engineer"
         },
         filters: {
             all: "All",
@@ -4930,14 +4942,14 @@ const translations = {
         },
         about: {
             heading: "About",
-            badge: "S.Kom, GPA 3.66 · Hacktiv8 Fullstack JavaScript",
+            badge: "Informatics Engineering, GPA 3.66 · AI-Enhanced Full Stack Developer Bootcamp",
             pillarsTitle: "Focus",
             educationLabel: "Universitas Malikussaleh (S.Kom)",
-            bootcampLabel: "Hacktiv8 Fullstack JavaScript",
+            bootcampLabel: "Hacktiv8 AI-Enhanced Full Stack Developer",
             bootcampValue: "Graduate",
-            p1: "I am a Computer Science graduate from Universitas Malikussaleh (GPA 3.66/4.00) and a Hacktiv8 Fullstack JavaScript graduate. I build web and mobile products that are already live, including RAC, a LangChain RAG car advisor at rac.kabanroom.web.id.",
-            p2: "Before software engineering, I ran branch operations and coordinated election logistics for 100+ field officers. That work trained ownership, calm execution under pressure, and delivery on hard deadlines.",
-            p3: "I work daily on Ubuntu Linux. Backends go to AWS EC2, frontends to Vercel. I use AI tooling to move faster without lowering code quality.",
+            p1: "I am an Informatics Engineering graduate from Universitas Malikussaleh (GPA 3.66/4.00) and an alumnus of the Hacktiv8 AI-Enhanced Full Stack Developer Bootcamp. I build production-ready web and mobile products, including RAC, a LangChain RAG car advisor.",
+            p2: "Before transitioning to software engineering, I managed branch operations and coordinated election logistics for over 100 field officers. This background instilled deep ownership, calm execution under pressure, and a track record of delivering under strict deadlines",
+            p3: "I deploy scalable solutions using modern stacks (AWS EC2, Vercel) and leverage AI tooling to accelerate development without compromising code quality.",
             highlights: [
                 {
                     label: "Environment",
@@ -4953,7 +4965,7 @@ const translations = {
                 },
                 {
                     label: "Roles",
-                    val: "Fullstack, Backend, AI Engineer"
+                    val: "Fullstack Developer, Backend Developer, Frontend Developer AI Engineer"
                 }
             ]
         },
@@ -5088,14 +5100,14 @@ const translations = {
         },
         about: {
             heading: "Tentang saya",
-            badge: "S.Kom, IPK 3.66 · Hacktiv8 Fullstack JavaScript",
+            badge: "Teknik Informatika, IPK 3.66 · AI-Enhanced Full Stack Developer",
             pillarsTitle: "Fokus",
             educationLabel: "Universitas Malikussaleh (S.Kom)",
-            bootcampLabel: "Hacktiv8 Fullstack JavaScript",
+            bootcampLabel: "Hacktiv8 AI-Enhanced Full Stack Developer",
             bootcampValue: "Lulusan",
-            p1: "Saya lulusan Informatika Universitas Malikussaleh (IPK 3.66/4.00) dan lulusan Hacktiv8 Fullstack JavaScript. Saya membangun produk web dan mobile yang sudah live, termasuk RAC, advisor mobil LangChain RAG di rac.kabanroom.web.id.",
-            p2: "Sebelum menjadi software engineer, saya memimpin operasional cabang dan mengoordinasikan logistik pemilu untuk 100+ petugas lapangan. Pengalaman itu membentuk rasa tanggung jawab, kerja tenang di bawah tekanan, dan ketepatan tenggat.",
-            p3: "Saya bekerja harian di Ubuntu Linux. Backend saya pasang di AWS EC2, frontend di Vercel. Saya memakai perangkat AI untuk bekerja lebih cepat tanpa menurunkan kualitas kode.",
+            p1: "Saya lulusan Informatika Universitas Malikussaleh (IPK 3.66/4.00) dan alumnus Hacktiv8 AI-Enhanced Full Stack Developer. Saya terbiasa membangun produk web dan mobile yang siap pakai dan live, termasuk RAC, car advisor berbasis LangChain RAG.",
+            p2: "Sebelum bergeser ke software engineering, saya memimpin operasional cabang dan mengoordinasikan logistik pemilu untuk 100+ petugas lapangan. Pengalaman itu membentuk rasa tanggung jawab yang tinggi, kemampuan bekerja dengan tenang di bawah tekanan, serta kedisiplinan terhadap tenggat waktu.",
+            p3: "Saya aktif menggunakan Ubuntu Linux untuk pengembangan sehari-hari. Backend didevoke ke AWS EC2 dan frontend ke Vercel. Saya juga mengintegrasikan perangkat AI ke dalam alur kerja untuk mempercepat proses development tanpa berkompromi pada kualitas kode.",
             highlights: [
                 {
                     label: "Lingkungan",
@@ -5111,7 +5123,7 @@ const translations = {
                 },
                 {
                     label: "Posisi",
-                    val: "Fullstack, Backend, AI Engineer"
+                    val: "Fullstack Developer, Backend Developer, Frontend Developer AI Engineer"
                 }
             ]
         },
